@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ivansendin/ivansendin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on cryptocurrency, blockchain and smart contracts
 - 🌱 I’m currently learning OP_RETURN 
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ivansendin@yahoo.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
